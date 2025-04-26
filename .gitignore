@@ -1,0 +1,19 @@
+# Flutter/Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+**/*.iml
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+
+# IDE
+.idea/
+.vscode/
+
+# Others
+.env
